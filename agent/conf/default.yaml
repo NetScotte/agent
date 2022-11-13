@@ -1,0 +1,6 @@
+server:
+  schema: http
+  host: localhost
+  port: 8080
+  interval: 15
+  accessKey: "accessKey"
